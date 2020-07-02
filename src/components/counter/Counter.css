@@ -1,0 +1,26 @@
+.number-button{
+    font-size: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 2px;
+    
+      
+}
+.reset{
+    font-size: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 2px;
+    background-color: red;
+      
+}
+
+.result{
+    font-size: 15px;
+    padding: 15px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    
+    margin: 2px;
+    display: inline-block;
+}

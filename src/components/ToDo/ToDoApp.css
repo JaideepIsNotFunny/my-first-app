@@ -1,0 +1,33 @@
+.login-button{
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 2px;
+    text-align: center;
+    background-color: #79f784;
+    width: 100%;
+}   
+.action-button{
+    margin-left: 5px;
+}
+.header-todo{
+    text-align: center;
+    
+}
+
+.app-name{
+    text-align: center;
+    position: relative;
+    width: 100%;
+    padding: 0;
+    font-size:25px;
+    color: wheat;
+    border: solid 1px wheat;
+    margin-left: 10;   
+    border-radius: 10px;
+    font-family: Courier New, Courier, monospace;  
+}
+
+.padding{
+    margin-top: 3%;
+}
